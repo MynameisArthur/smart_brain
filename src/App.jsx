@@ -144,5 +144,3 @@ class App extends Component {
 }
 
 export default App;
-//https://a1-images.myspacecdn.com/images02/123/8df5422bfbca4a2d93ee84c1ca6a5360/full.jpg
-//https://d1qsx5nyffkra9.cloudfront.net/sites/default/files/article-image/eminence-organics-acne-face-mapping.jpg
